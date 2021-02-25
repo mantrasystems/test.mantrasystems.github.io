@@ -101,12 +101,8 @@
       <lastmod>2020-12-22T22:31:38+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/academy</loc>
-      <lastmod>2021-02-19T17:07:30+00:00</lastmod>
-    </url>
-    <url>
       <loc>http://localhost:4000/articles/</loc>
-      <lastmod>2021-02-19T17:07:30+00:00</lastmod>
+      <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/brand</loc>
@@ -133,10 +129,6 @@
       <lastmod>2021-01-29T17:11:17+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/company</loc>
-      <lastmod>2021-02-19T17:07:30+00:00</lastmod>
-    </url>
-    <url>
       <loc>http://localhost:4000/complaints</loc>
       <lastmod>2020-12-12T12:53:57+00:00</lastmod>
     </url>
@@ -150,7 +142,7 @@
     </url>
     <url>
       <loc>http://localhost:4000/mdr-resources/downloads/</loc>
-      <lastmod>2021-02-19T17:07:30+00:00</lastmod>
+      <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/</loc>
@@ -194,15 +186,15 @@
     </url>
     <url>
       <loc>http://localhost:4000/mdr-academy/</loc>
-      <lastmod>2021-02-23T22:39:08+00:00</lastmod>
+      <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/medical-device-regulatory-consulting/</loc>
-      <lastmod>2021-02-23T15:13:31+00:00</lastmod>
+      <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/mdr-resources/</loc>
-      <lastmod>2021-02-23T22:39:08+00:00</lastmod>
+      <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/medical-device-regulatory-consulting/medical-device-software-samd</loc>
@@ -274,7 +266,7 @@
     </url>
     <url>
       <loc>http://localhost:4000/site-map</loc>
-      <lastmod>2021-02-23T22:39:08+00:00</lastmod>
+      <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/manufacturers/software-as-a-medical-device</loc>
