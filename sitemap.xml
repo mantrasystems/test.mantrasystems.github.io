@@ -165,12 +165,12 @@
       <lastmod>2020-09-27T11:21:11+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/healthcare-professionals</loc>
-      <lastmod>2021-02-19T17:07:30+00:00</lastmod>
-    </url>
-    <url>
       <loc>http://localhost:4000/</loc>
       <lastmod>2021-02-23T22:39:08+00:00</lastmod>
+    </url>
+    <url>
+      <loc>http://localhost:4000/join</loc>
+      <lastmod>2021-02-25T10:45:15+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/medical-device-regulatory-consulting/literature-searching-analysis-reporting</loc>
