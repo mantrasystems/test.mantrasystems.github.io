@@ -121,7 +121,7 @@
       <lastmod>2021-01-31T10:00:55+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/clinical-evaluation-services</loc>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/clinical-evaluation-services</loc>
       <lastmod>2021-02-24T13:19:49+00:00</lastmod>
     </url>
     <url>
@@ -157,8 +157,8 @@
       <lastmod>2021-03-01T16:10:52+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/evidence-generation-clinical-study-support</loc>
-      <lastmod>2021-03-04T12:35:35+00:00</lastmod>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/evidence-generation-clinical-study-support</loc>
+      <lastmod>2021-03-05T14:01:58+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/faqs</loc>
@@ -173,8 +173,8 @@
       <lastmod>2021-02-26T09:17:22+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/literature-searching-analysis-reporting</loc>
-      <lastmod>2021-03-04T12:35:35+00:00</lastmod>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/literature-searching-analysis-reporting</loc>
+      <lastmod>2021-03-05T14:01:58+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/mdr-academy/events/live-seminars/</loc>
@@ -189,20 +189,20 @@
       <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/</loc>
-      <lastmod>2021-03-03T14:44:20+00:00</lastmod>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/</loc>
+      <lastmod>2021-03-05T14:01:58+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/mdr-resources/</loc>
       <lastmod>2021-02-24T17:14:00+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/medical-device-software-samd</loc>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/medical-device-software-samd</loc>
       <lastmod>2021-03-02T12:47:03+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/medical-technical-writing</loc>
-      <lastmod>2021-03-04T12:35:35+00:00</lastmod>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/medical-technical-writing</loc>
+      <lastmod>2021-03-05T14:01:58+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/member-states</loc>
@@ -225,7 +225,7 @@
       <lastmod>2021-03-02T16:24:03+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/personalised-support</loc>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/personalised-support</loc>
       <lastmod>2021-03-01T16:10:52+00:00</lastmod>
     </url>
     <url>
@@ -237,7 +237,7 @@
       <lastmod>2021-01-30T22:46:24+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/pmcf-study-design</loc>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/pmcf-study-design</loc>
       <lastmod>2021-02-24T13:19:49+00:00</lastmod>
     </url>
     <url>
@@ -277,8 +277,8 @@
       <lastmod>2021-01-29T17:11:17+00:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/medical-device-regulatory-consulting/subject-matter-experts</loc>
-      <lastmod>2021-03-04T12:35:35+00:00</lastmod>
+      <loc>http://localhost:4000/medical-device-regulatory-consulting-services/subject-matter-experts</loc>
+      <lastmod>2021-03-05T14:01:58+00:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/manufacturers/summary-of-safety-and-clinical-performance</loc>
