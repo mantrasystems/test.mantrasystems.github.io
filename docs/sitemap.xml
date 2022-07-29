@@ -133,12 +133,12 @@
       <lastmod>2022-07-25T17:55:38+01:00</lastmod>
     </url>
     <url>
-      <loc>http://localhost:4000/eu-mdr-compliance/clinical-evaluation</loc>
-      <lastmod>2022-07-21T23:19:00+01:00</lastmod>
-    </url>
-    <url>
       <loc>http://localhost:4000/medical-device-regulatory-consulting-services/clinical-evaluation</loc>
       <lastmod>2022-06-16T13:01:40+01:00</lastmod>
+    </url>
+    <url>
+      <loc>http://localhost:4000/eu-mdr-compliance/clinical-evaluation</loc>
+      <lastmod>2022-07-21T23:19:00+01:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/medical-device-regulatory-consulting-services/clinical-evidence-generation</loc>
@@ -194,7 +194,7 @@
     </url>
     <url>
       <loc>http://localhost:4000/enable-ce-mark/eu-mdr-document-management/</loc>
-      <lastmod>2022-07-27T13:47:42+01:00</lastmod>
+      <lastmod>2022-07-28T09:26:27+01:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/medical-device-manufacturers</loc>
@@ -299,10 +299,6 @@
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/summary-of-safety-and-clinical-performance</loc>
       <lastmod>2022-03-04T09:56:42+00:00</lastmod>
-    </url>
-    <url>
-      <loc>http://localhost:4000/enable-ce-mark/eu-mdr-training-courses/systematic-literature-reviews</loc>
-      <lastmod>2022-07-25T17:55:38+01:00</lastmod>
     </url>
     <url>
       <loc>http://localhost:4000/eu-mdr-compliance/systematic-literature-reviews</loc>
