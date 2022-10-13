@@ -1,4 +1,0 @@
-Sitemap: https://www.mantrasystems.co.uk/sitemap.xml
-User-agent: *
-Allow: /
-Disallow: /404.html
