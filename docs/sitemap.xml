@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://www.beyondtheward.com/doctors-guide-to-non-clinical-careers</loc>
+      <loc>http://localhost:4000/doctors-guide-to-non-clinical-careers</loc>
+      <lastmod>2023-04-14T13:27:19+01:00</lastmod>
+    </url>
+    <url>
+      <loc>http://localhost:4000/</loc>
+      <lastmod>2023-04-14T13:27:19+01:00</lastmod>
+    </url>
+    <url>
+      <loc>http://localhost:4000/non-clinical-job-opportunities-podcast</loc>
       <lastmod>2023-04-14T08:37:08+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.beyondtheward.com/</loc>
+      <loc>http://localhost:4000/site-map</loc>
       <lastmod>2023-04-13T23:42:01+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.beyondtheward.com/non-clinical-job-opportunities-podcast</loc>
-      <lastmod>2023-04-14T08:37:08+01:00</lastmod>
+      <loc>http://localhost:4000/medical-affairs-online-video-training-course</loc>
+      <lastmod>2023-04-14T13:27:19+01:00</lastmod>
     </url>
     <url>
-      <loc>https://www.beyondtheward.com/site-map</loc>
-      <lastmod>2023-04-13T23:42:01+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.beyondtheward.com/medical-affairs-online-video-training-course</loc>
-      <lastmod>2023-04-14T08:37:08+01:00</lastmod>
-    </url>
-    <url>
-      <loc>https://www.beyondtheward.com/assets/downloads/PREVIEW-Beyond_The_Ward-2023.pdf</loc>
+      <loc>http://localhost:4000/assets/downloads/PREVIEW-Beyond_The_Ward-2023.pdf</loc>
       <lastmod>2023-04-14T13:24:46+01:00</lastmod>
     </url>
   </urlset>
