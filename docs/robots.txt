@@ -1,0 +1,4 @@
+Sitemap: https://www.beyondtheward.com/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /404.html
